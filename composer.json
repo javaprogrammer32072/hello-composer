@@ -1,17 +1,17 @@
 {
-    "name": "vitalis/hello-composer",
+    "name": "thakurs/hello-composer",
     "description": "A simple hello world composer package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Ogbonna Vitalis",
-            "email": "agavitalisogbonna@gmail.com"
+            "name": "Ankit Kumar Thakur",
+            "email": "animsanddccandgm@gmail.com"
         }
     ],
     "minimum-stability": "stable",
     "autoload": {
-        "psr-4": {"vitalis\\HelloWorld\\": "src/"}
+        "psr-4": {"thakurs\\HelloWorld\\": "src/"}
     },
     "require": {}
 }
